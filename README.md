@@ -1,8 +1,8 @@
-## Projects that work, spring 2021
+## Projects that work, весна 2021
 
-### Data science. Unsupervised learning seminars
+### Анализ данных: обучение без учителя
 
-### How to start
+### Начало работы
     git clone https://github.com/dmgirdyuk/PtW_ML_Unsupervised_learning.git
     cd PtW_ML_Unsupervised_learning
     python -m venv venv
