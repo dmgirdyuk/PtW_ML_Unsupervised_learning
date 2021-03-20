@@ -48,6 +48,7 @@ prometheus-client==0.8.0
 prompt-toolkit==3.0.8
 pycparser==2.20
 Pygments==2.7.2
+pynndescent==0.5.2
 pyod==0.8.3
 pyparsing==2.4.7
 pyrsistent==0.17.3
@@ -70,6 +71,7 @@ testpath==0.4.4
 threadpoolctl==2.1.0
 tornado==6.1
 traitlets==5.0.5
+umap-learn==0.5.1
 wcwidth==0.2.5
 webencodings==0.5.1
 widgetsnbextension==3.5.1
